@@ -12,9 +12,9 @@ end
 
 
 Then("I press on My conversions button") do
-  puts ("I land on my conversions screen")
+  puts ("My conversions button pressed")
 end
 
 Then("I land on My conversions screen") do
-  puts("I see empty list")
+  puts("Landed on My conversions screen")
 end
